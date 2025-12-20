@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #bf1542;
+}
+
+h1 {
+    font-size: 70px;
+    font-family: "Parisienne", cursive;
+}
+
+h3{
+    font-family: "Atma", system-ui;
+}
+h2{
+    font-family: "Style Script", cursive;
+    font-size: 35px;
+}
+
+h1, h3 {
+    text-align: center;
+    color: #fff;
+}
+
+tbody{
+    font-family: "Caveat Brush", cursive;
+    font-size: 20px;
+}
+#card:last-of-type {
+    margin-bottom: 50px;
+}
+
+.table {
+    text-align: justify;
+}
